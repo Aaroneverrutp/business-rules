@@ -1,0 +1,13 @@
+{
+  "name": "business-rules",
+  "owner": {
+    "name": "Aaroneverrutp"
+  },
+  "plugins": [
+    {
+      "name": "business-rules",
+      "source": "./plugins/business-rules",
+      "description": "Creates and enforces BUSINESS_RULES.md, your project's business rules contract. Warns you before writing code that would break a rule, instead of writing it and mentioning the conflict afterwards."
+    }
+  ]
+}

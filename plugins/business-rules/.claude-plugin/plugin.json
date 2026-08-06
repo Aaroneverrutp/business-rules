@@ -1,0 +1,10 @@
+{
+  "name": "business-rules",
+  "description": "Creates and enforces BUSINESS_RULES.md, your project's business rules contract. Warns you before writing code that would break a rule, instead of writing it and mentioning the conflict afterwards.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aaroneverrutp"
+  },
+  "license": "MIT",
+  "keywords": ["business-rules", "requirements", "guardrails", "domain-logic", "code-review"]
+}
